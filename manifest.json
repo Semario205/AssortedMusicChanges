@@ -1,0 +1,7 @@
+{
+    "name": "AssortedMusicChanges",
+    "version_number": "1.0.0",
+    "description": "Changes intro speech to Fnaf 6 intro, Company to Journey Into Melody, and the Alarm with supsense from Dual Desitnies",
+    "websit_url": "https://github.com/Semario205/AssortedMusicChanges",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}
